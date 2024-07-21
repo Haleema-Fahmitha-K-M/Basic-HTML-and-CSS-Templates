@@ -10,6 +10,7 @@ This project is a simple blog template created using HTML and CSS. It consists o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 - [File Structure](#file-structure)
 
 
@@ -58,6 +59,14 @@ This project is a simple blog template created using HTML and CSS. It consists o
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## License
+
+ MIT(https://github.com/Haleema-Fahmitha-K-M/Basic-HTML-and-CSS-Templates/blob/6813f7ab3a3b9cc9a8be8d7acf499659725c7126/LICENSE))
+
+
+
 ## File Structure
 
 ```plaintext
